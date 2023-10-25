@@ -1,0 +1,19 @@
+The code provided is a Python script for a mortgage calculator. Based on various user inputs, it calculates and provides information about the affordability of a home purchase. Here's a quick rundown of what this code does:
+
+1. It establishes a set of constant values for the number of payments, property tax rates, price per square foot in various locations, and other financial parameters.
+
+2. The script displays a welcome message and prompts the user to enter information about the house they're interested in, such as the location, square footage, maximum monthly payment they can afford, down payment amount, and current annual percentage rate (APR).
+
+3. It employs conditional statements to calculate the appropriate price per square foot and property tax rate based on the location specified by the user.
+
+4. It estimates the cost of a home based on square footage and price per square foot.
+
+5. Based on the user's input and financial parameters, it calculates the monthly payments, property tax, and final payment amount.
+
+6. The script then shows the user the calculated information, indicating whether they can afford the house based on their input.
+
+7. The user is given the option of viewing an amortization table, which includes the monthly payment schedule, interest, principal, and remaining balance.
+
+8. The script also allows the user to attempt additional affordability or amortization tables.
+
+Overall, this script is a mortgage planning calculator that assists users in estimating the affordability of a home purchase and provides detailed financial information to help them make informed decisions.
